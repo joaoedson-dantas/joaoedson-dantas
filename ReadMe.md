@@ -1,5 +1,5 @@
 # 🤘 Olá, eu me chamo João Edson
-🔭 Trabalho com front-End & UX/UI Desing<br>🌱 Estudando JavaScript<br>⚡ Cursando Análise e Desenvolvimento de Sistemas
+🔭 Trabalho com front-End & UX/UI Desing<br>🌱 Estudando React<br>⚡ Cursando Análise e Desenvolvimento de Sistemas
 
 
 ## 🌐 Socials:
