@@ -6,12 +6,12 @@ I'm a Web Developer specializing in back-end. And I'm studying systems analysis 
 
 #### Current stack
 
-- 💻 Main laguage: `JavaScript and TypeScript`
-- 📡 Backend: `Nodejs`, `Express`, `Fastify`, `Nest.js`
+- 💻 Main laguage: `Java and TypeScript`
+- 📡 Backend: `Spring boot`, `Nodejs`, `Express`, `Nest.js`
 - ⚡ Frontend: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
 - 📦 Version Code Control: `Git & Github`
 - 🛠️ Tools: `PrismaORM`, `Docker`, `VsCode`, `PostgresSQL`
-- 🌱 I’m currently learning `C#`
+- 🌱 I’m currently learning `Angular`
 
 
 
