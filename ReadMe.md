@@ -17,7 +17,6 @@ I'm a Web Developer specializing in back-end. And I'm studying systems analysis 
 
  #### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoedson-dantas/)](https://www.linkedin.com/in/joaoedson-dantas/)
-[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://joaoedson-dantas.github.io/)](https://joaoedson-dantas.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-joaoedson.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoedson.dev@outlook.com)](mailto:joaoedson.dev@outlook.com) 
 <br>
 
