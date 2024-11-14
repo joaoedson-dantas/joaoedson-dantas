@@ -1,4 +1,4 @@
-### Hi, I'm João Edson Dantas 👋
+# Hi, I'm João Edson Dantas 👋
 
 #### About 
 
@@ -6,7 +6,7 @@ I'm a Web Developer specializing in back-end. And I'm studying systems analysis 
 
 #### Current stack
 
-- 💻 Main laguage: `Java and JavaScript`
+- 💻 Main laguage: `Java`
 - 📡 Backend: `Spring boot`, `Nodejs`, `Express`, `Nest.js`
 - ⚡ Frontend: `Angular`, `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
 - 📦 Version Code Control: `Git & Github`
