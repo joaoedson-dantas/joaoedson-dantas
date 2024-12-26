@@ -7,13 +7,11 @@ I'm a Web Developer specializing in back-end. And I'm studying systems analysis 
 #### Current stack
 
 - 💻 Main laguage: `Java`
-- 📡 Backend: `Spring boot`, `Nodejs`, `Express`, `Nest.js`
-- ⚡ Frontend: `Angular`, `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- 📡 Backend: `Java`, `Spring boot`, `PostgreSQL`, `Express`, `Nest.js`
+- ⚡ Frontend: `Angular`, `Reactjs`, `HTML5`, `CSS3`, `JavaScript`, `TypeScript`
 - 📦 Version Code Control: `Git & Github`
-- 🛠️ Tools: `PrismaORM`, `Docker`, `VsCode`, `PostgresSQL`
+- 🛠️ Tools: `Docker`, `Jasper Reports`, `JPA`, `Junit5`, `SQL`
 - 🌱 I’m currently learning `AWS - Amazon Web Services`
-
-
 
  #### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoedson-dantas/)](https://www.linkedin.com/in/joaoedson-dantas/)
